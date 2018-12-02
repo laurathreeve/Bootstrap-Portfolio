@@ -1,43 +1,19 @@
-body {
+#btn.btn-primary.btn-lg {
+    background-color: rgb(19, 154, 172); 
+    color: white; 
+    font-size:20px;
+    margin-left:100px;
+}
 
+body {
     background-color: lightgrey;
 }
 
-.alert-heading {
+#alert.alert-secondary {
+    margin: 50px, 200px, 50px, 200px; 
+    background-color:white;
+}
+
+#alert-heading {
     color:rgb(19, 154, 172);
-}
-
-.alert.alert-secondary {
-    margin: 50px 200px 50px 200px; background-color:white;
-}
-
-#aboutpicture {
-
-    margin-right:2%;
-    height: 200px;
-    width:100px;
-
-}
-
-.card-footer {
-    text-align: center; 
-    color: white; 
-    background: rgb(73, 73, 73);
-}
-
-.btn.btn-primary.btn-lg {
-    background-color: rgb(19, 154, 172); 
-    color: white; 
-    font-size:20px; 
-    margin-left:200px;
-}
-
-.nav.justify-content-end {
-    margin-right: 200px;
-}
-
-.card-footer {
-    text-align: center; 
-    color: white; 
-    background: rgb(73, 73, 73);
 }
